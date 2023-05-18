@@ -1,0 +1,5 @@
+django
+cdqa
+beautifulsoup4
+pandas
+google
